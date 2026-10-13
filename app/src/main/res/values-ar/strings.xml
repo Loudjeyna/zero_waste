@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ZeroWaste</string>
+    <string name="subtitle_overview">نستهلك بوعي، ونهدر أقل</string>
+    <string name="subtitle_inventory">كل ما في ثلاجتك بمكان واحد</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_inventory">مخزوني</string>
+    <string name="fab_add">إضافة طعام</string>
+    <string name="badge_sustainability">عادات صغيرة، أثر كبير 🌱</string>
+    <string name="card_welcome_title">أهلًا بك في مطبخ أكثر استدامة</string>
+    <string name="card_welcome_body">تابع صلاحية أطعمتك واستخدمها في الوقت المناسب.</string>
+    <string name="pill_expiring">قريب الانتهاء</string>
+    <string name="pill_safe">آمنة</string>
+    <string name="pill_expired">منتهية</string>
+    <string name="section_urgent">أطعمة تحتاج لاستخدام فوري</string>
+    <string name="section_urgent_sub">راقب ما يحتاج إلى استخدام أولًا</string>
+    <string name="btn_view_stock">عرض المخزون</string>
+    <string name="empty_urgent_title">لا يوجد طعام عاجل!</string>
+    <string name="empty_urgent_body">كل أطعمتك الآمنة لا تنتهي صلاحيتها قريباً.</string>
+    <string name="inventory_title">مخزوني</string>
+    <string name="inventory_subtitle">لديك %1$d من الأطعمة الآمنة بعيدة المدى</string>
+    <string name="empty_inventory_title">المخزون البعيد فارغ!</string>
+    <string name="empty_inventory_body">أضف الأطعمة وتابع تواريخ صلاحيتها لتستخدمها في الوقت المناسب.</string>
+    <string name="status_expired">منتهي الصلاحية</string>
+    <string name="status_today">تنتهي صلاحيته اليوم</string>
+    <string name="status_days_left">متبقي %1$d يوم</string>
+</resources>
